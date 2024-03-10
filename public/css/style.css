@@ -86,6 +86,9 @@ h2 {
 .no-list {
     margin-bottom: 50px;
 }
+.not-found {
+    margin-top: 50px;
+}
 .list {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
